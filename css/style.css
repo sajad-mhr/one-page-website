@@ -1,0 +1,21 @@
+@font-face {
+  font-family: vazir;
+  src: url("../assets/fonts/Vazir.ttf");
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.icon {
+  background-color: rgb(13, 109, 253);
+  display: inline-flex;
+  font-size: 80px;
+  border-radius: 20px;
+  color: #fff;
+}
+
+
+.card-info{
+    background-color: rgba(13, 110, 253,0.3);;
+}
